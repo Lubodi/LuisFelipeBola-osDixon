@@ -1,0 +1,8 @@
+name: Alpha
+version: '${project.version}'
+main: com.lubodi.alpha.Alpha
+api-version: 1.19
+authors: [ Lubodi ]
+description: Plugin, defiende el monolito
+commands:
+  novel:
